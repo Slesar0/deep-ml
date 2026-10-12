@@ -10,7 +10,6 @@ def calculate_matrix_mean(a: list[list[float]], mode: str) -> list[float]:
 		for row in a:
 			for i in range(len(row)):
 				means[i]+=row[i]
-		for j in range(cols):
-			means[j]/=rows
+		means=[x / rows for x in means]
 
 	return means
