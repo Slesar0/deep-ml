@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:31:03.515Z",
+  "generated_at": "2026-10-14T15:31:14.272Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -114,7 +114,7 @@
       "url": "https://www.deep-ml.com/problems/67",
       "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
       "first_solved_at": "2026-10-14T15:31:02.027Z",
-      "last_pushed_at": "2026-10-14T15:31:02.027Z",
+      "last_pushed_at": "2026-10-14T15:31:13.906Z",
       "language": "python",
       "lines": 17
     }
