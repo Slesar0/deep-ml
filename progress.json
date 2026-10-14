@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:15:42.740Z",
+  "generated_at": "2026-10-14T15:16:33.518Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -101,9 +101,9 @@
       "url": "https://www.deep-ml.com/problems/66",
       "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
       "first_solved_at": "2026-10-14T15:15:40.528Z",
-      "last_pushed_at": "2026-10-14T15:15:40.528Z",
+      "last_pushed_at": "2026-10-14T15:16:33.154Z",
       "language": "python",
-      "lines": 15
+      "lines": 13
     }
   }
 }
